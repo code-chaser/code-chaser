@@ -5,7 +5,6 @@
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/code-chaser](https://github.com/code-chaser) -->
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/codechaser" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="codechaser" height="30" width="40" /></a>
 <a href="https://twitter.com/y_baid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="y_baid_" height="30" width="40" /></a>
