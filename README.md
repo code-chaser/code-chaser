@@ -25,7 +25,7 @@ ___
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="" height="32"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="" height="37"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="" height="37"/> </a>
 </a>    
 <br>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/code-chaser">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-chaser&theme=dark" height = "250" width=""/>
 </a></p>
 
@@ -34,7 +34,7 @@ ___
 <br>
 
 ## GitHub Stats:
-<div><a href="https://github.com/anuraghazra/github-readme-stats">
+<div><a href="https://github.com/code-chaser">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=code-chaser&count_private=true&show_icons=true&theme=dark" alt="code-chaser" width =400 />
 </div>
 
