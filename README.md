@@ -8,7 +8,7 @@
 
 ## Handles:
 <a href="https://twitter.com/y_baid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="y_baid_" height="24" width="32" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yashvardhan-baid-3166331a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashvardhan-baid-3166331a6/" height="24" width="32" /></a>
+<a href="https://linkedin.com/in/yashvardhan-baid-3166331a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashvardhan-baid-3166331a6/" height="24" width="32" /></a>
 <a href="https://fb.com/codechaser.yb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codechaser.yb" height="24" width="32" /></a>
 <a href="https://instagram.com/codechaser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codechaser" height="24" width="32" /></a>&nbsp;
 <a href="https://www.codechef.com/users/codechaser" target="blank"><img align="center" src="https://logo.clearbit.com/codechef.com" alt="codechaser" height="24" width="" padding="" /></a>&nbsp;&nbsp;&nbsp;
