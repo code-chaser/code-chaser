@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="24">&nbsp; Hi, there!</h1>
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="24">&nbsp; Hi there!</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-chaser&label=Profile%20views&color=0e75b6&style=flat" alt="code-chaser" /> </p>
