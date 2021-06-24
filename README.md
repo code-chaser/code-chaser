@@ -1,6 +1,6 @@
 <h1 align="center">Hi&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="24">, I'm Yashvardhan Baid! </h1>
 
-<h3 align="center">Learner | Passoionate Coder | Thinker</h3>
+<h3 align="center">Learner | Passionate Coder | Thinker</h3>
 <br>
 <p align=center><a href="https://twitter.com/y_baid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="y_baid_" height="24" width="32" /></a>
 <a href="https://linkedin.com/in/yashvardhan-baid-3166331a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashvardhan-baid-3166331a6/" height="24" width="32" /></a>
