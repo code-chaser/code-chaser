@@ -16,7 +16,7 @@
 
 ___
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=code-chaser&label=Profile%20visits&color=0e75b6&style=flat" alt="code-chaser" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=code-chaser&label=Profile%20visits&color=0e75b6&style=flat-square" alt="code-chaser" /> </p>
 
 <!--
 
