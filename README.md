@@ -27,10 +27,10 @@ ___
 
 <h2 align="center"> GitHub Stats </h2>
 <div align="center"><a href="https://github.com/code-chaser">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-chaser&count_private=true&show_icons=true&theme=merko&bg_color=0d1117" alt="code-chaser" height="160" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-chaser&count_private=true&show_icons=true&theme=merko&bg_color=40,fa913f,6b47ca&border_color=ffffff&title_color=ffffff&text_color=fff&icon_color=fff" alt="code-chaser" height="160" />
+<!--e32f68-->
 <a href="https://github.com/code-chaser">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-chaser&theme=merko&bg_color=0d1117&layout=compact" height="160" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-chaser&theme=merko&bg_color=40,fa913f,6b47ca&border_color=ffffff&title_color=ffffff&text_color=fff&icon_color=fff&layout=compact" height="160" />
 </a></p>
 </div>
 
