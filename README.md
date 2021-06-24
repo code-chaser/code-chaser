@@ -35,7 +35,6 @@ ___
 ___
 
 <br>
-
 <h2 align="center"> GitHub Stats </h2>
 <div align="center"><a href="https://github.com/code-chaser">
   
