@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="24">&nbsp; Hi, this is Yashvardhan Baid! </h1>
+<h1 align="center">Hi&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="24">, I'm Yashvardhan Baid! </h1>
 <h2 align="center"> 
 <a href="https://twitter.com/y_baid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="y_baid_" height="24" width="32" /></a>
 <a href="https://linkedin.com/in/yashvardhan-baid-3166331a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashvardhan-baid-3166331a6/" height="24" width="32" /></a>
@@ -27,10 +27,10 @@ ___
 
 <h2 align="center"> GitHub Stats </h2>
 <div align="center"><a href="https://github.com/code-chaser">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-chaser&count_private=true&show_icons=true&theme=tokyonight&bg_color=000000" alt="code-chaser" height="160" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-chaser&count_private=true&show_icons=true&theme=merko&bg_color=0d1117" alt="code-chaser" height="160" />
 
 <a href="https://github.com/code-chaser">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-chaser&theme=tokyonight&bg_color=000000&layout=compact" height="160" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-chaser&theme=merko&bg_color=0d1117&layout=compact" height="160" />
 </a></p>
 </div>
 
