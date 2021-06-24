@@ -16,17 +16,19 @@ ___
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=code-chaser&label=Profile%20visits&color=0e75b6&style=flat" alt="code-chaser" /> </p>
 
+<!--
+
 ___
 
 <div align="center">
 -INTRO HERE-
  </div>
-
+-->
 ___
 
 <h2 align="center">Skills</h2> 
-<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="" height="32"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="" height="37"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="" height="37"/> </a>
-</a>    
+<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="" height="32"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="" height="37"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="" height="37"/> </a>
+<a href="https://www.cprogramming.com/https://www.cprogramming.com/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="" height="32"/> </a> <a href="https://kotlinlang.org" target="_blank"> &nbsp;<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="" height="29"/> </a>
 <br>
 
 ___
