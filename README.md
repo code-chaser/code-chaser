@@ -28,8 +28,12 @@ ___
 ___
 
 <h2 align="center">Skills</h2> 
-<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="" height="32"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="" height="37"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="" height="37"/> </a>
-<a href="https://www.cprogramming.com/https://www.cprogramming.com/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="" height="32"/> </a> <a href="https://kotlinlang.org" target="_blank"> &nbsp;<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="" height="29"/> </a>
+<p align="center">
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="" height="33"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.w3.org/html/" target="_blank"><img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="" height="43"/></a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="" height="65"/></a>&nbsp;&nbsp;
+<a href="https://www.cprogramming.com/https://www.cprogramming.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="" height="43"/></a>&nbsp;&nbsp;
+<a href="https://kotlinlang.org" target="_blank">&nbsp;&nbsp;<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="" height="27"/></a>
 <br>
 
 ___
