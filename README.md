@@ -2,15 +2,16 @@
 
 <h3 align="center">Learner | Passionate Coder | Thinker</h3>
 <br>
-<p align=center><a href="https://twitter.com/y_baid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="y_baid_" height="34" width="" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/yashvardhan-baid-3166331a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashvardhan-baid-3166331a6/" height="34" width="" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://fb.com/codechaser.yb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codechaser.yb" height="34" width="" /></a>&nbsp;&nbsp;&nbsp;
- <a href="https://open.spotify.com/user/2zitooxrnd54cyavlphuhn7r9?si=2e4246add7414e72"><img align="center" height="34" src="https://user-images.githubusercontent.com/63065397/123314435-39dbcd80-d548-11eb-8f43-20f494523936.png"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/code_chaser_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codechaser" height="34" width="" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/codechaser" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63065397/123329670-b11a5d00-d55a-11eb-8096-44ca8667f0e3.png" alt="codechaser" height="34" width="" padding="" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/codechaser" target="blank"><img align="center" src="https://logo.clearbit.com/codeforces.com" alt="codechaser" height="34" width="" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://dev.to/codechaser" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="codechaser" height="34" width="" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerearth.com/@codechaser" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@codechaser" height="34" width="" /></a>
+<p align=center>
+<a href="https://twitter.com/y_baid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="y_baid_" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/yashvardhan-baid-3166331a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashvardhan-baid-3166331a6/" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://fb.com/codechaser.yb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codechaser.yb" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/2zitooxrnd54cyavlphuhn7r9?si=2e4246add7414e72"><img align="center" height="27" src="https://user-images.githubusercontent.com/63065397/123314435-39dbcd80-d548-11eb-8f43-20f494523936.png"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/code_chaser_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codechaser" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/codechaser" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63065397/123329670-b11a5d00-d55a-11eb-8096-44ca8667f0e3.png" alt="codechaser" height="27" width="" padding="" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/codechaser" target="blank"><img align="center" src="https://logo.clearbit.com/codeforces.com" alt="codechaser" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://dev.to/codechaser" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="codechaser" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerearth.com/@codechaser" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@codechaser" height="27" width="" /></a>
 
 </p>
 
@@ -29,11 +30,11 @@ ___
 
 <h2 align="center">Skills</h2> 
 <p align="center">
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="" height="33"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3.org/html/" target="_blank"><img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="" height="43"/></a>&nbsp;&nbsp;
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="" height="65"/></a>&nbsp;&nbsp;
-<a href="https://www.cprogramming.com/https://www.cprogramming.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="" height="43"/></a>&nbsp;&nbsp;
-<a href="https://kotlinlang.org" target="_blank">&nbsp;&nbsp;<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="" height="27"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="" height="25"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.w3.org/html/" target="_blank"><img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="" height="35"/></a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="" height="50"/></a>&nbsp;&nbsp;
+<a href="https://www.cprogramming.com/https://www.cprogramming.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="" height="38"/></a>&nbsp;&nbsp;
+<a href="https://kotlinlang.org" target="_blank">&nbsp;&nbsp;<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="" height="19"/></a>
 <br>
 
 ___
