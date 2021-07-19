@@ -7,11 +7,12 @@
 <a href="https://linkedin.com/in/yashvardhan-baid-3166331a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashvardhan-baid-3166331a6/" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://fb.com/codechaser.yb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codechaser.yb" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/2zitooxrnd54cyavlphuhn7r9?si=2e4246add7414e72"><img align="center" height="27" src="https://user-images.githubusercontent.com/63065397/123314435-39dbcd80-d548-11eb-8f43-20f494523936.png"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/code_chaser_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codechaser" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/yashvardhan_baid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codechaser" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/codechaser" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63065397/123329670-b11a5d00-d55a-11eb-8096-44ca8667f0e3.png" alt="codechaser" height="27" width="" padding="" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/codechaser" target="blank"><img align="center" src="https://logo.clearbit.com/codeforces.com" alt="codechaser" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://dev.to/codechaser" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="codechaser" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerearth.com/@codechaser" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@codechaser" height="27" width="" /></a>
+<a href="https://www.hackerearth.com/@codechaser" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@codechaser" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://icpc.global/ICPCID/DOP0J2F6824H"><img align="center" src="https://user-images.githubusercontent.com/63065397/126180986-c735360b-6e4b-4a90-bfa3-551debdeb125.png" height="27"></a>
 
 </p>
 
