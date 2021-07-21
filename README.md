@@ -34,7 +34,7 @@ ___
         <li>💻 currently focusing on <i>Competitive Coding</i></li>
         <li>👐 have tried my hands at <i>Object Oriented Programming</i> & <i>Web Development</i></li>
         <br>
-        <li><details><summary>✴️ Projects:</summary>
+        <li><details><summary>✴️ Projects:</summary><br>
             <ul>
                 <li>
             <a href="https://github.com/code-chaser/hospital-management-system/">hospital-management-system</a> : made using <i>Object Oriented Programming in C++</i> (Semester Project) <br>
