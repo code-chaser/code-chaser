@@ -20,13 +20,65 @@ ___
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=code-chaser&label=Profile%20visits&color=0e75b6&style=flat-square" alt="code-chaser" width="120" /> </p>
 
- <!--
+
 ___
 
 <div align="center">
--INTRO HERE-
- </div>
--->
+    A first-year undergraduate 👨‍⚖️ from <b><i><a href="https://iiitl.ac.in">Indian Institute of Information Technology, Lucknow</a></i></b> 🏛️ .
+    <br>
+    <br>
+    <br>
+    <ul align="left">
+        <li>👨‍💻 passionate about coding and other tech-fields
+        <li>🌱 willing to learn new stuff</li>
+        <li>💻 currently focusing on <i>Competitive Coding</i></li>
+        <li>👐 have tried my hands at <i>Object Oriented Programming</i> & <i>Web Development</i></li>
+        <br>
+        <li><details><summary>✴️ Projects:</summary>
+            <ul>
+                <li>
+            <a href="https://github.com/code-chaser/hospital-management-system/">hospital-management-system</a> : made using <i>Object Oriented Programming in C++</i> (Semester Project) <br>
+                </li>
+            </details></li>
+        <li><details><summary>⭐ Achievements:</summary><br>
+            
+* Global Rank **1240** in my first ever coding contest;
+    * Contest: &nbsp;&nbsp; <a href="https://www.codechef.com/DEC20B">December Challenge 2020 Division 2</a>
+    * Platform: &nbsp; <a href="https://www.codechef.com"><img align="center" src="https://logo.clearbit.com/codechef.com" alt="codechef" height="24" width="" padding="" /></a>
+    * Handle: &nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/codechaser" target="blank"> codechaser</a>
+    * <img align="center" src="https://user-images.githubusercontent.com/63065397/122634315-19041a00-d0fb-11eb-8db9-9dced957e9ca.png">
+
+
+<br>
+
+* Global Rank **445**;
+    * Contest: &nbsp;&nbsp; <a href="https://www.codechef.com/CCRC21C">CodeChef Div 3 Rated Contest 2021 Division 3</a>
+    * Platform: &nbsp; <a href="https://www.codechef.com"><img align="center" src="https://logo.clearbit.com/codechef.com" alt="codechef" height="24" width="" padding="" /></a>
+    * Handle: &nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/codechaser" target="blank"> codechaser</a>
+    * <img align="center" src="https://user-images.githubusercontent.com/63065397/123522305-1cd70400-d6da-11eb-8c99-abaec7172dbf.png">
+
+<br>
+
+* Global Rank **43**;
+    * Contest: &nbsp;&nbsp; <a href="https://www.codechef.com/START4C">May CodeChef Starters 2021 Division 3</a>
+    * Platform: &nbsp; <a href="https://www.codechef.com"><img align="center" src="https://logo.clearbit.com/codechef.com" alt="codechef" height="24" width="" padding="" /></a>
+    * Handle: &nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/codechaser1" target="blank"> codechaser1</a>
+    * <img align="center" src="https://user-images.githubusercontent.com/63065397/122634236-a3984980-d0fa-11eb-9ea8-889acec7e7d7.png">
+
+<br>
+
+* Global Rank **11**;
+    * Contest: &nbsp;&nbsp; <a href="https://www.codechef.com/START5C">June CodeChef Starters 2021 Division 3</a>
+    * Platform: &nbsp; <a href="https://www.codechef.com"><img align="center" src="https://logo.clearbit.com/codechef.com" alt="codechef" height="24" width="" padding="" /></a>
+    * Handle: &nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/knight0" target="blank"> knight0</a>
+    * <img align="center" src="https://user-images.githubusercontent.com/63065397/123551605-291d9880-d790-11eb-8d62-d87a01cdf47f.png">
+
+<br>
+
+           
+</ul>
+</div>
+
 ___
 
 <h2 align="center">Skills</h2> 
@@ -52,6 +104,11 @@ ___
 
 ___
 
+#### Reach me out:
+* <img src="https://user-images.githubusercontent.com/63065397/126423466-72506d41-ee22-43d2-bf7a-a90b6581c8d4.png" height="20"> Mail ID: [LIT2020013@iiitl.ac.in](mailto:lit2020013@iiitl.ac.in)  
+* <img src="https://user-images.githubusercontent.com/63065397/126423218-46304c72-7520-4ef9-802a-5188896d775d.png" height="20"> Discord: [codechaser#0647](https://discord.com/)
+
+___
 
 </div>
 
