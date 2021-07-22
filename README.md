@@ -24,7 +24,7 @@ ___
 ___
 
 <div align="center">
-    A 1<sup>st</sup> year B.Tech. Student 👨‍⚖️ at <b><i><a href="https://iiitl.ac.in">Indian Institute of Information Technology, Lucknow</a></i></b> 🏛️ .
+    A 1<sup>st</sup> year B.Tech. student 👨‍🎓 at <b><i><a href="https://iiitl.ac.in">Indian Institute of Information Technology, Lucknow</a></i></b> 🏛️ .
     <br>
     <br>
     <br>
