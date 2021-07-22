@@ -42,21 +42,12 @@ ___
                 </li>
             </details></li>
         <li><details><summary>⭐ Achievements:</summary><br>
-            
-* Global Rank **1240** in my first ever coding contest;
-    * Contest: &nbsp;&nbsp; <a href="https://www.codechef.com/DEC20B">December Challenge 2020 Division 2</a>
+
+* Global Rank **11**;
+    * Contest: &nbsp;&nbsp; <a href="https://www.codechef.com/START5C">June CodeChef Starters 2021 Division 3</a>
     * Platform: &nbsp; <a href="https://www.codechef.com"><img align="center" src="https://logo.clearbit.com/codechef.com" alt="codechef" height="24" width="" padding="" /></a>
-    * Handle: &nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/codechaser" target="blank"> codechaser</a>
-    * <img align="center" src="https://user-images.githubusercontent.com/63065397/122634315-19041a00-d0fb-11eb-8db9-9dced957e9ca.png">
-
-
-<br>
-
-* Global Rank **445**;
-    * Contest: &nbsp;&nbsp; <a href="https://www.codechef.com/CCRC21C">CodeChef Div 3 Rated Contest 2021 Division 3</a>
-    * Platform: &nbsp; <a href="https://www.codechef.com"><img align="center" src="https://logo.clearbit.com/codechef.com" alt="codechef" height="24" width="" padding="" /></a>
-    * Handle: &nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/codechaser" target="blank"> codechaser</a>
-    * <img align="center" src="https://user-images.githubusercontent.com/63065397/123522305-1cd70400-d6da-11eb-8c99-abaec7172dbf.png">
+    * Handle: &nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/knight0" target="blank"> knight0</a>
+    * <img align="center" src="https://user-images.githubusercontent.com/63065397/123551605-291d9880-d790-11eb-8d62-d87a01cdf47f.png">
 
 <br>
 
@@ -68,11 +59,20 @@ ___
 
 <br>
 
-* Global Rank **11**;
-    * Contest: &nbsp;&nbsp; <a href="https://www.codechef.com/START5C">June CodeChef Starters 2021 Division 3</a>
+* Global Rank **445**;
+    * Contest: &nbsp;&nbsp; <a href="https://www.codechef.com/CCRC21C">CodeChef Div 3 Rated Contest 2021 Division 3</a>
     * Platform: &nbsp; <a href="https://www.codechef.com"><img align="center" src="https://logo.clearbit.com/codechef.com" alt="codechef" height="24" width="" padding="" /></a>
-    * Handle: &nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/knight0" target="blank"> knight0</a>
-    * <img align="center" src="https://user-images.githubusercontent.com/63065397/123551605-291d9880-d790-11eb-8d62-d87a01cdf47f.png">
+    * Handle: &nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/codechaser" target="blank"> codechaser</a>
+    * <img align="center" src="https://user-images.githubusercontent.com/63065397/123522305-1cd70400-d6da-11eb-8c99-abaec7172dbf.png">
+
+<br>
+
+* Global Rank **1240** in my first ever coding contest;
+    * Contest: &nbsp;&nbsp; <a href="https://www.codechef.com/DEC20B">December Challenge 2020 Division 2</a>
+    * Platform: &nbsp; <a href="https://www.codechef.com"><img align="center" src="https://logo.clearbit.com/codechef.com" alt="codechef" height="24" width="" padding="" /></a>
+    * Handle: &nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/codechaser" target="blank"> codechaser</a>
+    * <img align="center" src="https://user-images.githubusercontent.com/63065397/122634315-19041a00-d0fb-11eb-8db9-9dced957e9ca.png">
+
 
 <br>
 
