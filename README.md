@@ -12,7 +12,7 @@
 <a href="https://codeforces.com/profile/codechaser" target="blank"><img align="center" src="https://logo.clearbit.com/codeforces.com" alt="codechaser" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://dev.to/codechaser" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="codechaser" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;<!--
 <a href="https://www.hackerearth.com/@codechaser" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@codechaser" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;-->
-<a href="https://icpc.global/ICPCID/DOP0J2F6824H"><img align="center" src="https://user-images.githubusercontent.com/63065397/126180986-c735360b-6e4b-4a90-bfa3-551debdeb125.png" height="27"></a>
+<a href="https://icpc.global/ICPCID/DOP0J2F6824H"><img align="center" src="https://user-images.githubusercontent.com/63065397/126180986-c735360b-6e4b-4a90-bfa3-551debdeb125.png" height="33"></a>
 
 </p>
 
