@@ -24,7 +24,7 @@ ___
 ___
 
 <div align="center">
-    A 1<sup>st</sup> year B.Tech. student 👨‍🎓 at <b><i><a href="https://iiitl.ac.in">Indian Institute of Information Technology, Lucknow</a></i></b> 🏛️ .
+    A sophomore 👨‍🎓 at <b><i><a href="https://iiitl.ac.in">Indian Institute of Information Technology, Lucknow</a></i></b> 🏛️ pursuing B.Tech. (2020-2024).
     <br>
     <br>
     <br>
