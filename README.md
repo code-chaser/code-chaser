@@ -86,7 +86,8 @@ ___
 <p align="center">
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="" height="25"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3.org/html/" target="_blank"><img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="" height="35"/></a>&nbsp;&nbsp;
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="" height="50"/></a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="" height="50"/></a>&nbsp;
+<a href="https://www.w3schools.com/java/" target="_blank"><img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="" height="56" style="vertical-align:middle;margin:50px 0px"/></a>&nbsp;
 <a href="https://www.cprogramming.com/https://www.cprogramming.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="" height="38"/></a>&nbsp;&nbsp;
 <a href="https://kotlinlang.org" target="_blank">&nbsp;&nbsp;<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="" height="19"/></a>
 <br>
