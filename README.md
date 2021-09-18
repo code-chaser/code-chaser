@@ -28,6 +28,8 @@ ___
     <br>
     <br>
     <br>
+</div>
+<div>
     <ul align="left">
         <li>👨‍💻 passionate about coding and other tech-fields
         <li>🌱 willing to learn new stuff</li>
