@@ -45,6 +45,9 @@ ___
                 <li>
             <a href="https://github.com/code-chaser/hospital-management-system/">hospital-management-system</a> : made using Object Oriented Programming & File Handling in C++ <br><i>(June'21 - July'21)</i> <br>
                 </li>
+                <li>
+            <a href="https://github.com/code-chaser/typit/">typit</a> : (typing speed & accuracy tester tool/game) : made using basic C++ and a bit of File Handling <br><i>(June'21 - June'21)</i> <br>
+                </li>
             </details></li>
         <li><details><summary>⭐ Achievements:</summary><br>
 
