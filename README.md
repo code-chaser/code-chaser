@@ -40,7 +40,10 @@ ___
         <li><details><summary>✴️ Projects:</summary><br>
             <ul>
                 <li>
-            <a href="https://github.com/code-chaser/expense-manager/">expense-manager</a> : made using Object Oriented Programming in C++ <br> <i>(February'22 - Present)</i> <br>
+            <a href="https://github.com/code-chaser/dex/">dex-discord-bot</a> : made using <a href="https://github.com/Rapptz/discord.py">discord.py</a> library in Python; learnt to use basic OOPs and File Handling in Python <br> <i>(February'22 - Present)</i> <br>
+                </li>
+                <li>
+            <a href="https://github.com/code-chaser/expense-manager/">expense-manager</a> : made using Object Oriented Programming in C++ <br> <i>(February'22 - February'22)</i> <br>
                 </li>
                 <li>
             <a href="https://github.com/code-chaser/hotel-management-system/">hotel-management-system</a> : made using Object Oriented Programming, Multi-threading & File Handling in JAVA <br> <i>(November'21 - November'21)</i> <br>
