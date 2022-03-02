@@ -101,9 +101,10 @@ ___
 
 <a href="https://www.w3schools.com/cpp/" target="_blank"><img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="" height="39"/></a>&nbsp;&nbsp;
 <a href="https://www.w3schools.com/java/" target="_blank"><img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="" height="39" style="margin:0px 0px 50px 0px;"/></a>&nbsp;&nbsp;
-    <a href="https://www.mysql.com/" target="_blank"><img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="" height="39"/></a>&nbsp;&nbsp;
+<a href="https://www.mysql.com/" target="_blank"><img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="" height="39"/></a>&nbsp;&nbsp;
 <a href="https://www.w3.org/html/" target="_blank"><img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="" height="39"/></a>&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="" height="39"/></a>&nbsp;&nbsp;
+<a href="https://www.python.org/" target="_blank"><img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="" height="39"/></a>&nbsp;&nbsp;
 <a href="https://www.cprogramming.com/https://www.cprogramming.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="" height="39"/></a>&nbsp;&nbsp;
 <a href="https://www.javascript.com/" target="_blank">&nbsp;<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="" height="39"/></a>&nbsp;&nbsp;
 <a href="https://kotlinlang.org" target="_blank">&nbsp;&nbsp;
