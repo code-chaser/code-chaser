@@ -31,11 +31,12 @@ ___
 </div>
 <div>
     <ul align="left">
-        <li>👨‍💻 passionate about coding and other tech-fields
+        <li>👨‍💻 passionate about coding and other tech-fields</li>
         <li>🌱 willing to learn new stuff</li>
         <li>💻 currently focusing on <i>Data Structures & Algorithms</i></li>
         <li>👐 have tried my hands at <i>Object Oriented Programming</i> & <i>Front-end Web Development</i></li>
         <li>😃 fields of interest: <i>Competitive Coding, Web Development, App Development, OOPs</i></li>
+        <!--<li>💙 my hobbies: <i>Coding, Listening to music, Driving, Gaming, Solving Mechanics Problems</i></li>-->
         <br>
         <li><details><summary>✴️ Projects:</summary><br>
             <ul>
