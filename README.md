@@ -4,8 +4,8 @@
 <br>
 <p align=center>
 <a href="https://twitter.com/y_baid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="y_baid_" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/yashvardhan-baid-3166331a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashvardhan-baid-3166331a6/" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://fb.com/codechaser.yb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codechaser.yb" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/code-chaser/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/code-chaser/" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/codechaser.yb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codechaser.yb" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/2zitooxrnd54cyavlphuhn7r9?si=2e4246add7414e72"><img align="center" height="27" src="https://user-images.githubusercontent.com/63065397/123314435-39dbcd80-d548-11eb-8f43-20f494523936.png"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/yashvardhan_baid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codechaser" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/codechaser1" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63065397/123329670-b11a5d00-d55a-11eb-8096-44ca8667f0e3.png" alt="codechaser" height="27" width="" padding="" /></a>&nbsp;&nbsp;&nbsp;
@@ -131,6 +131,7 @@ ___
 #### Reach me out:
 * <img src="https://user-images.githubusercontent.com/63065397/126423466-72506d41-ee22-43d2-bf7a-a90b6581c8d4.png" height="20"> Mail ID: [LIT2020013@iiitl.ac.in](mailto:lit2020013@iiitl.ac.in)  
 * <img src="https://user-images.githubusercontent.com/63065397/126423218-46304c72-7520-4ef9-802a-5188896d775d.png" height="20"> Discord: [codechaser#0647](https://discord.com/)
+* <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="16">&nbsp; LinkedIn: [yashvardhan-baid](https://www.linkedin.com/in/code-chaser/)
 
 ___
 
