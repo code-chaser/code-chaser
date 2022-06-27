@@ -57,40 +57,48 @@ ___
                 </li>
             </details></li>
         <li><details><summary>⭐ Achievements:</summary><br>
+            
+            
+* **Solved 600+** problems on various coding platforms
 
-* Global Rank **11**;
-    * Contest: &nbsp;&nbsp; <a href="https://www.codechef.com/START5C">June CodeChef Starters 2021 Division 3</a>
-    * Platform: &nbsp; <a href="https://www.codechef.com"><img align="center" src="https://user-images.githubusercontent.com/63065397/123329670-b11a5d00-d55a-11eb-8096-44ca8667f0e3.png" alt="codechef" height="24" width="" padding="" /></a>
-    * Handle: &nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/knight0" target="blank"> knight0</a>
-    * <img align="center" src="https://user-images.githubusercontent.com/63065397/123551605-291d9880-d790-11eb-8d62-d87a01cdf47f.png">
+* Global Rank **105** in CodeChef contest; _(Jun. 2022)_ 
+    * Standings: [**link**](https://www.codechef.com/rankings/LTIME109B?itemsPerPage=100&order=asc&page=2&sortBy=rank)
+    * Handle: [**codechaser1**](https://www.codechef.com/users/codechaser1)
 
-<br>
+* Global Rank **16** in CodeChef contest; _(Apr. 2022)_ 
+    * Standings: [**link**](https://www.codechef.com/rankings/LTIME107C?itemsPerPage=100&order=asc&page=1&sortBy=rank)
+    * Handle: [**codechaser2**](https://www.codechef.com/users/codechaser2)
 
-* Global Rank **43**;
-    * Contest: &nbsp;&nbsp; <a href="https://www.codechef.com/START4C">May CodeChef Starters 2021 Division 3</a>
-    * Platform: &nbsp; <a href="https://www.codechef.com"><img align="center" src="https://user-images.githubusercontent.com/63065397/123329670-b11a5d00-d55a-11eb-8096-44ca8667f0e3.png" alt="codechef" height="24" width="" padding="" /></a>
-    * Handle: &nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/codechaser1" target="blank"> codechaser1</a>
-    * <img align="center" src="https://user-images.githubusercontent.com/63065397/122634236-a3984980-d0fa-11eb-9ea8-889acec7e7d7.png">
+* Global Rank **32** in CodeChef contest; _(Sept. 2021)_ 
+    * Standings: [**link**](https://www.codechef.com/rankings/START14C)
+    * Handle: [**codechaser2**](https://www.codechef.com/users/codechaser2)
 
-<br>
+* Team ranked **66** in **ACM-ICPC** Kanpur Regionals 2020; _(Aug. 2021)_ 
+    * Standings: [**link**](http://kanpur.indiaicpc.in/Result.pdf)
+    * Team Name: **obliterators**
+    * ICPC-ID: [**link**](https://icpc.global/ICPCID/DOP0J2F6824H)
+            
+* Rated as **4 STAR Coder** on CodeChef; _(Jul. 2021)_
+    * Handle: [**codechaser**](https://www.codechef.com/users/codechaser)
+            
+* Rated as **SPECIALIST** on Codeforces; _(Jul. 2021)_
+    * Handle: [**codechaser**](https://codeforces.com/profile/codechaser)
+            
+* Global Rank **11** in CodeChef contest; _(Jun. 2021)_ 
+    * Standings: [**link**](https://www.codechef.com/rankings/START5C)
+    * Handle: [**knight0**](https://www.codechef.com/users/knight0)
 
-* Global Rank **445**;
-    * Contest: &nbsp;&nbsp; <a href="https://www.codechef.com/CCRC21C">CodeChef Div 3 Rated Contest 2021 Division 3</a>
-    * Platform: &nbsp; <a href="https://www.codechef.com"><img align="center" src="https://user-images.githubusercontent.com/63065397/123329670-b11a5d00-d55a-11eb-8096-44ca8667f0e3.png" alt="codechef" height="24" width="" padding="" /></a>
-    * Handle: &nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/codechaser" target="blank"> codechaser</a>
-    * <img align="center" src="https://user-images.githubusercontent.com/63065397/123522305-1cd70400-d6da-11eb-8c99-abaec7172dbf.png">
+* Global Rank **43** in CodeChef contest; _(May 2021)_ 
+    * Standings: [**link**](https://www.codechef.com/rankings/START4C)
+    * Handle: [**codechaser1**](https://www.codechef.com/users/codechaser1)
 
-<br>
+* Team ranked **1** (Out of **65+** teams) in Freshers' Cup of IIIT Lucknow; _(Apr. 2021)_ 
+    * Standings: [**link**](https://assessment.hackerearth.com/challenges/college/freshers-cup-prelims/leaderboard/)
+    * Team Name: **losers**
 
-* Global Rank **1240** in my first ever coding contest;
-    * Contest: &nbsp;&nbsp; <a href="https://www.codechef.com/DEC20B">December Challenge 2020 Division 2</a>
-    * Platform: &nbsp; <a href="https://www.codechef.com"><img align="center" src="https://user-images.githubusercontent.com/63065397/123329670-b11a5d00-d55a-11eb-8096-44ca8667f0e3.png" alt="codechef" height="24" width="" padding="" /></a>
-    * Handle: &nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/codechaser" target="blank"> codechaser</a>
-    * <img align="center" src="https://user-images.githubusercontent.com/63065397/122634315-19041a00-d0fb-11eb-8db9-9dced957e9ca.png">
-
-
-<br>
-
+* Ranked **5** (out of **200+** participants) in intra-college coding contest; _(Dec. 2020)_ 
+    * Standings: [**link**](https://assessment.hackerearth.com/challenges/college/indian-institute-of-information-technologylucknow-test-draft-1-9/leaderboard/)
+    * Handle: [**codechaser**](https://www.hackerearth.com/@codechaser)
            
 </ul>
 </div>
