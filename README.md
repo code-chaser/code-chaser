@@ -56,6 +56,8 @@ ___
             <a href="https://github.com/code-chaser/typit/">typit</a> : (typing speed & accuracy tester tool/game) : made using basic C++ and a bit of File Handling <br><i>(June'21 - June'21)</i> <br>
                 </li>
             </details></li>
+
+<!--            
         <li><details><summary>⭐ Achievements:</summary><br>
             
             
@@ -100,7 +102,7 @@ ___
     * Standings: [**link**](https://assessment.hackerearth.com/challenges/college/indian-institute-of-information-technologylucknow-test-draft-1-9/leaderboard/)
     * Handle: [**codechaser**](https://www.hackerearth.com/@codechaser)
            
-</ul>
+</ul>-->
 </div>
 
 ___
