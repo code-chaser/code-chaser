@@ -24,7 +24,7 @@ ___
 ___
 
 <div align="center">
-    A sophomore 👨‍🎓 at <b><a href="https://iiitl.ac.in">Indian Institute of Information Technology, Lucknow</a></i></b> 🏛️ pursuing <b>B.Tech. in IT</b> (2020-2024).
+    A penultimate year student 👨‍🎓 at <b><a href="https://iiitl.ac.in">Indian Institute of Information Technology, Lucknow</a></i></b> 🏛️ pursuing <b>B.Tech. in IT</b> (2020-2024).
     <br>
     <br>
     <br>
