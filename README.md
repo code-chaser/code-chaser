@@ -134,7 +134,7 @@ ___
 
 ___
 
-<a href="https://github.com/code-chaser"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=code-chaser&bg_color=aabbff00&color=4285f4&line=34d853&point=34d853&area=true&hide_border=true&hide_title=true&area_color=34d853" />
+<a href="https://github.com/code-chaser"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=code-chaser&bg_color=aabbff00&color=4285f4&line=34d853&point=34d85300&area=true&hide_border=true&hide_title=true&area_color=34d853" />
   </a></p>
 </div>
 
