@@ -139,7 +139,7 @@ ___
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=code-chaser&count_private=true&show_icons=true&theme=onedark&title_color=42a5f4&icon_color=fbdc05&text_color=34d853&hide_border=1&border_radius=0&bg_color=1f48adcc&layout=compact&custom_title=codechaser's GitHub Stats" alt="code-chaser" height="200" />
 
-<!--e32f68&bg_color=40,fa913f,6b47ca&border_color=ffffff&title_color=ffffff&text_color=fff&icon_color=fff-->
+<!--e32f68&bg_color=40,fa913f,6b47ca&border_color=ffffff&title_color=ffffff&text_color=fff&icon_color=fff         ***fbbc05***-->
 <br>
 
   </a></p>
@@ -147,7 +147,7 @@ ___
 
 ___
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=code-chaser&bg_color=aabbff00&color=4285f4&line=34d853&point=4285f4&area=true&hide_border=true&hide_title=true&area_color=34d853" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=code-chaser&bg_color=aabbff00&color=4285f4&line=34d853&point=34d853&area=true&hide_border=true&hide_title=true&area_color=34d853" />
 
 
 ___
