@@ -41,19 +41,19 @@ ___
         <li><details><summary>✴️ Projects:</summary><br>
             <ul>
                 <li>
-            <a href="https://github.com/code-chaser/dex/">dex-discord-bot</a> : made using <a href="https://github.com/Rapptz/discord.py">discord.py</a> library in Python; learnt to integrate SQL Database & used basic OOPs in Python <br> <i>(February'22 - Present)</i> <br>
+            <a href="https://github.com/code-chaser/dex/">dex-discord-bot</a> : A multi-purpose discord music bot made using <a href="https://github.com/Rapptz/discord.py">discord.py</a> library in <b>Python</b>;<br><ul><li>It has <b>30+</b> bot functions using which user can listen to music, get its lyrics, get a random meme, inspirational quote, reddit headlines for given subreddit and a lot more; <br></li><li><i>(February'22 - June'22)</i><br></li></ul>
                 </li>
                 <li>
-            <a href="https://github.com/code-chaser/expense-manager/">expense-manager</a> : made using Object Oriented Programming in C++ <br> <i>(February'22 - February'22)</i> <br>
+            <a href="https://github.com/code-chaser/expense-manager/">expense-manager</a> : Made Using OOPs Features in <b>C++</b>;<br><ul><li>It keeps a record of user's personal expenses in an organized manner;<br></li><li><i>(February'22 - February'22)</i><br></li></ul>
                 </li>
                 <li>
-            <a href="https://github.com/code-chaser/hotel-management-system/">hotel-management-system</a> : made using Object Oriented Programming, Multi-threading & File Handling in JAVA <br> <i>(November'21 - November'21)</i> <br>
+            <a href="https://github.com/code-chaser/hotel-management-system/">hotel-management-system</a> : Made using OOPs Features, Multi-threading & File Handling in <b>JAVA</b>;<br><ul><li>It's a portal where guests can check availability of, book or checkout from a hotel room and staff can login to manage rooms’ and guests’ details;<br></li><li><i>(November'21 - November'21)</i><br></li></ul>
                 </li>
                 <li>
-            <a href="https://github.com/code-chaser/hospital-management-system/">hospital-management-system</a> : made using Object Oriented Programming & File Handling in C++ <br><i>(June'21 - July'21)</i> <br>
+            <a href="https://github.com/code-chaser/hospital-management-system/">hospital-management-system</a> : Made using Object Oriented Programming & File Handling in <b>C++</b>;<br><ul><li>It has <b>30+</b> basic functions to manage a hospital's records;<br></li><li><i>(June'21 - July'21)</i><br></li></ul>
                 </li>
                 <li>
-            <a href="https://github.com/code-chaser/typit/">typit</a> : (typing speed & accuracy tester tool/game) : made using basic C++ and a bit of File Handling <br><i>(June'21 - June'21)</i> <br>
+            <a href="https://github.com/code-chaser/typit/">typit</a> : (typing speed & accuracy tester tool/game) : Made using basic <b>C++</b> and a bit of File Handling;<br><ul><li>Single or multiple players can play on desired difficulty levels to test their typing skills;<br></li><li><i>(June'21 - June'21)</i><br></li></ul>
                 </li>
             </details></li>
 
