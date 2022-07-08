@@ -58,23 +58,27 @@
 
 
 <p align="center">
-<a href="https://www.codechef.com/users/codechaser1" target="blank">
-<img align="center" src="https://img.shields.io/badge/codechef-4285f4?style=for-the-badge&logo=codechef&logoColor=152c51" alt="CodeChef" width="14%" height="5%"/></a>
+
+<a href="mailto:yashbaid2002@gmail.com" target="blank">
+<img align="center" src="https://img.shields.io/badge/gmailid-152c51?style=for-the-badge&logo=gmail&logoColor=4285f4" alt="Gmail" width="12%" height="5%"/></a>
+
+<a href="https://www.linkedin.com/in/yashvardhan-baid/" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-4285f4?style=for-the-badge&logo=linkedin&logoColor=152c51" alt="LinkedIn" width="12%" height="5%"/></a>
  
+<a href="https://twitter.com/y_baid_" target="blank">
+<img align="center" src="https://img.shields.io/badge/TWITTER-152c51?style=for-the-badge&logo=Twitter&logoColor=4285f4" alt="Twitter" width="12%" height="5%"/></a>
 
-<a href="https://codeforces.com/profile/codechaser" target="blank">
-<img align="center" src="https://img.shields.io/badge/codeforces-152c51?style=for-the-badge&logo=codeforces&logoColor=4285f4" alt="Codeforces" width="14%" height="5%"/></a>
- 
+<a href="https://www.facebook.com/codechaser.yb" target="blank">
+<img align="center" src="https://img.shields.io/badge/facebook-4285f4?style=for-the-badge&logo=facebook&logoColor=152c51" alt="Facebook" width="12%" height="5%"/></a>
 
-<a href="https://icpc.global/ICPCID/DOP0J2F6824H">
-<img align="center" src="https://img.shields.io/badge/ICPC | ID-4285f4?style=for-the-badge&logo=ACM&logoColor=152c51" alt="ICPC" width="14%" height="5%"/></a>
+<a href="https://open.spotify.com/user/2zitooxrnd54cyavlphuhn7r9?si=2e4246add7414e72">
+<img align="center" src="https://img.shields.io/badge/spotify-152c51?style=for-the-badge&logo=spotify&logoColor=4285f4" alt="Spotify" width="12%" height="5%"/></a>
 
-<a href="https://dev.to/codechaser" target="blank">
-<img align="center" src="https://img.shields.io/badge/dev | comm.-152c51?style=for-the-badge&logo=dev.to&logoColor=4285f4" alt="Dev.to" width="14%" height="5%"/></a>
- 
+<a href="https://instagram.com/yashvardhan_baid_" target="blank">
+<img align="center" src="https://img.shields.io/badge/insta|id-4285f4?style=for-the-badge&logo=instagram&logoColor=152c51" alt="Instagram" width="12%" height="5%"/></a>
 
-<a href="https://leetcode.com/code-chaser/" target="blank">
-<img align="center" src="https://img.shields.io/badge/leetcode-4285f4?style=for-the-badge&logo=leetcode&logoColor=152c51" alt="Leetcode" width="14%" height="5%"/></a>
+<a href="https://discord.com/users/784817646435565578/" target="blank">
+<img align="center" src="https://img.shields.io/badge/Discord-152c51?style=for-the-badge&logo=discord&logoColor=4285f4" alt="Discord" width="12%" height="5%"/></a>
 
 <!--
 <a href="https://www.hackerearth.com/@codechaser" target="blank">
@@ -276,31 +280,28 @@ ___
 -->
 <br/>
 
-<h2 align="center">Connect with me</h2> 
+<h2 align="center">Coding Profiles</h2> 
 <div align="center">
 <p align="center">
-
-<a href="mailto:lit2020013@iiitl.ac.in" target="blank">
-<img align="center" src="https://img.shields.io/badge/gmailid-152c51?style=for-the-badge&logo=gmail&logoColor=4285f4" alt="Gmail" width="12%" height="5%"/></a>
-
-<a href="https://www.linkedin.com/in/yashvardhan-baid/" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-4285f4?style=for-the-badge&logo=linkedin&logoColor=152c51" alt="LinkedIn" width="12%" height="5%"/></a>
  
-<a href="https://twitter.com/y_baid_" target="blank">
-<img align="center" src="https://img.shields.io/badge/TWITTER-152c51?style=for-the-badge&logo=Twitter&logoColor=4285f4" alt="Twitter" width="12%" height="5%"/></a>
-
-<a href="https://www.facebook.com/codechaser.yb" target="blank">
-<img align="center" src="https://img.shields.io/badge/facebook-4285f4?style=for-the-badge&logo=facebook&logoColor=152c51" alt="Facebook" width="12%" height="5%"/></a>
-
-<a href="https://open.spotify.com/user/2zitooxrnd54cyavlphuhn7r9?si=2e4246add7414e72">
-<img align="center" src="https://img.shields.io/badge/spotify-152c51?style=for-the-badge&logo=spotify&logoColor=4285f4" alt="Spotify" width="12%" height="5%"/></a>
-
-<a href="https://instagram.com/yashvardhan_baid_" target="blank">
-<img align="center" src="https://img.shields.io/badge/insta|id-4285f4?style=for-the-badge&logo=instagram&logoColor=152c51" alt="Instagram" width="12%" height="5%"/></a>
-
-<a href="https://discord.com/users/784817646435565578/" target="blank">
-<img align="center" src="https://img.shields.io/badge/Discord-152c51?style=for-the-badge&logo=discord&logoColor=4285f4" alt="Discord" width="12%" height="5%"/></a>
+<a href="https://www.codechef.com/users/codechaser1" target="blank">
+<img align="center" src="https://img.shields.io/badge/codechef-4285f4?style=for-the-badge&logo=codechef&logoColor=152c51" alt="CodeChef" width="14%" height="5%"/></a>
  
+
+<a href="https://codeforces.com/profile/codechaser" target="blank">
+<img align="center" src="https://img.shields.io/badge/codeforces-152c51?style=for-the-badge&logo=codeforces&logoColor=4285f4" alt="Codeforces" width="14%" height="5%"/></a>
+ 
+
+<a href="https://icpc.global/ICPCID/DOP0J2F6824H">
+<img align="center" src="https://img.shields.io/badge/ICPC | ID-4285f4?style=for-the-badge&logo=ACM&logoColor=152c51" alt="ICPC" width="14%" height="5%"/></a>
+
+<a href="https://dev.to/codechaser" target="blank">
+<img align="center" src="https://img.shields.io/badge/dev | comm.-152c51?style=for-the-badge&logo=dev.to&logoColor=4285f4" alt="Dev.to" width="14%" height="5%"/></a>
+ 
+
+<a href="https://leetcode.com/code-chaser/" target="blank">
+<img align="center" src="https://img.shields.io/badge/leetcode-4285f4?style=for-the-badge&logo=leetcode&logoColor=152c51" alt="Leetcode" width="14%" height="5%"/></a>
+
 
 </p>    
 </div>
