@@ -142,7 +142,7 @@ ___
 ___
 
 #### Connect with me:
-* <img src="https://user-images.githubusercontent.com/63065397/126423466-72506d41-ee22-43d2-bf7a-a90b6581c8d4.png" height="20"> Mail ID: [LIT2020013@iiitl.ac.in](mailto:lit2020013@iiitl.ac.in)  
+* <img src="https://user-images.githubusercontent.com/63065397/126423466-72506d41-ee22-43d2-bf7a-a90b6581c8d4.png" height="20"> Mail ID: [yashbaid2002@gmail.com](mailto:yashbaid2002@gmail.com)  
 * <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="16">&nbsp; LinkedIn: [yashvardhan-baid](https://www.linkedin.com/in/code-chaser/)
 * <img src="https://user-images.githubusercontent.com/63065397/126423218-46304c72-7520-4ef9-802a-5188896d775d.png" height="20"> Discord: [codechaser#0647](https://discord.com/)
 
