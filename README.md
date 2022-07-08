@@ -279,25 +279,25 @@ ___
 <p align="center">
 
 <a href="mailto:lit2020013@iiitl.ac.in" target="blank">
-<img align="center" src="https://img.shields.io/badge/gmail | ID-152c51?style=for-the-badge&logo=gmail&logoColor=4285f4" alt="Gmail" width=10% height=24px/></a>
+<img align="center" src="https://img.shields.io/badge/gmail | ID-152c51?style=for-the-badge&logo=gmail&logoColor=4285f4" alt="Gmail" width=12% height=24px/></a>
 
 <a href="https://www.linkedin.com/in/yashvardhan-baid/" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-4285f4?style=for-the-badge&logo=linkedin&logoColor=152c51" alt="LinkedIn" width=10% height=24px/></a>
+<img align="center" src="https://img.shields.io/badge/LinkedIn-4285f4?style=for-the-badge&logo=linkedin&logoColor=152c51" alt="LinkedIn" width=12% height=24px/></a>
  
 <a href="https://twitter.com/y_baid_" target="blank">
-<img align="center" src="https://img.shields.io/badge/TWITTER-152c51?style=for-the-badge&logo=Twitter&logoColor=4285f4" alt="Twitter" width=10% height=24px/></a>
+<img align="center" src="https://img.shields.io/badge/TWITTER-152c51?style=for-the-badge&logo=Twitter&logoColor=4285f4" alt="Twitter" width=12% height=24px/></a>
 
 <a href="https://www.facebook.com/codechaser.yb" target="blank">
-<img align="center" src="https://img.shields.io/badge/facebook-4285f4?style=for-the-badge&logo=facebook&logoColor=152c51" alt="Facebook" width=10% height=24px/></a>
+<img align="center" src="https://img.shields.io/badge/facebook-4285f4?style=for-the-badge&logo=facebook&logoColor=152c51" alt="Facebook" width=12% height=24px/></a>
 
 <a href="https://open.spotify.com/user/2zitooxrnd54cyavlphuhn7r9?si=2e4246add7414e72">
-<img align="center" src="https://img.shields.io/badge/spotify-152c51?style=for-the-badge&logo=spotify&logoColor=4285f4" alt="Spotify" width=10% height=24px/></a>
+<img align="center" src="https://img.shields.io/badge/spotify-152c51?style=for-the-badge&logo=spotify&logoColor=4285f4" alt="Spotify" width=12% height=24px/></a>
 
 <a href="https://instagram.com/yashvardhan_baid_" target="blank">
-<img align="center" src="https://img.shields.io/badge/instagram-4285f4?style=for-the-badge&logo=instagram&logoColor=152c51" alt="Instagram" width=10% height=24px/></a>
+<img align="center" src="https://img.shields.io/badge/instagram-4285f4?style=for-the-badge&logo=instagram&logoColor=152c51" alt="Instagram" width=12% height=24px/></a>
 
 <a href="https://discord.com/users/784817646435565578/" target="blank">
-<img align="center" src="https://img.shields.io/badge/Discord-152c51?style=for-the-badge&logo=discord&logoColor=4285f4" alt="Discord" width=10% height=24px/></a>
+<img align="center" src="https://img.shields.io/badge/Discord-152c51?style=for-the-badge&logo=discord&logoColor=4285f4" alt="Discord" width=12% height=24px/></a>
  
 
 </p>    
