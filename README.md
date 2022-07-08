@@ -42,15 +42,15 @@
 <!--
 <p align=center>
 
-<a href="https://twitter.com/y_baid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="y_baid_" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/code-chaser/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/code-chaser/" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/codechaser.yb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codechaser.yb" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/y_baid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="y_baid_" height="27" width= /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/code-chaser/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/code-chaser/" height="27" width= /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/codechaser.yb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codechaser.yb" height="27" width= /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/2zitooxrnd54cyavlphuhn7r9?si=2e4246add7414e72"><img align="center" height="27" src="https://user-images.githubusercontent.com/63065397/123314435-39dbcd80-d548-11eb-8f43-20f494523936.png"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/yashvardhan_baid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codechaser" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/codechaser1" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63065397/123329670-b11a5d00-d55a-11eb-8096-44ca8667f0e3.png" alt="codechaser" height="27" width="" padding="" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/codechaser" target="blank"><img align="center" src="http://cdn.codeforces.com/s/0/favicon-96x96.png" alt="codechaser" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://dev.to/codechaser" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="codechaser" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerearth.com/@codechaser" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@codechaser" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/yashvardhan_baid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codechaser" height="27" width= /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/codechaser1" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63065397/123329670-b11a5d00-d55a-11eb-8096-44ca8667f0e3.png" alt="codechaser" height="27" width= padding="" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/codechaser" target="blank"><img align="center" src="http://cdn.codeforces.com/s/0/favicon-96x96.png" alt="codechaser" height="27" width= /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://dev.to/codechaser" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="codechaser" height="27" width= /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerearth.com/@codechaser" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@codechaser" height="27" width= /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://icpc.global/ICPCID/DOP0J2F6824H"><img align="center" src="https://user-images.githubusercontent.com/63065397/126180986-c735360b-6e4b-4a90-bfa3-551debdeb125.png" height="33"></a>
 
 </p>
@@ -190,31 +190,31 @@ ___
 <h2 align="center">Skills</h2> 
 <div align="center">
 <a href="https://www.mysql.com/" target="_blank">
-<img align="center"  src="https://user-images.githubusercontent.com/63065397/178034640-6b060e77-dd78-4837-9b73-d0073a75bfa2.png" alt="mysql" width="" height="36"/></a>
+<img align="center"  src="https://user-images.githubusercontent.com/63065397/178034640-6b060e77-dd78-4837-9b73-d0073a75bfa2.png" alt="mysql" width=3%/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.postgresql.org/" target="_blank">
-<img align="center"  src="https://user-images.githubusercontent.com/63065397/178029882-d191f899-4f14-4f59-a03a-a0e6376f9a22.png" alt="postgresql" width="" height="39"/></a>
+<img align="center"  src="https://user-images.githubusercontent.com/63065397/178029882-d191f899-4f14-4f59-a03a-a0e6376f9a22.png" alt="postgresql" width=4%/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="" height="45"/></a>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width=5%/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="" height="61"/></a>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width=6%/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-<img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="" height="72"/></a>
+<img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width=7%/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.python.org/" target="_blank">
-<img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="" height="64"/></a>
+<img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width=6%/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/html/" target="_blank">
-<img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="" height="45"/></a>
+<img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width=5%/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.java.com/" target="_blank">
-<img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="" height="43" style="margin:0px 0px 50px 0px;"/></a>
+<img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width=4%/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.javascript.com/" target="_blank">
-<img align="center" src="https://user-images.githubusercontent.com/63065397/178033281-fcbcea41-5299-4bac-994a-232632dfe0df.png" alt="js" width="" height="36"/></a>
+<img align="center" src="https://user-images.githubusercontent.com/63065397/178033281-fcbcea41-5299-4bac-994a-232632dfe0df.png" alt="js" width=3%/></a>
 
 
 </div>
