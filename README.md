@@ -263,15 +263,7 @@ ___
 
 ___
 
-<!--
-#### Connect with me:
-* <img src="https://user-images.githubusercontent.com/63065397/126423466-72506d41-ee22-43d2-bf7a-a90b6581c8d4.png" height="20"> Mail ID: [LIT2020013@iiitl.ac.in](mailto:lit2020013@iiitl.ac.in)  
-* <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="16">&nbsp; LinkedIn: [yashvardhan-baid](https://www.linkedin.com/in/code-chaser/)
-* <img src="https://user-images.githubusercontent.com/63065397/126423218-46304c72-7520-4ef9-802a-5188896d775d.png" height="20"> Discord: [codechaser#0647](https://discord.com/users/784817646435565578/)
 
-___
-
--->
 <br/>
 
 <h2 align="center">Coding Profiles</h2> 
@@ -307,6 +299,13 @@ ___
 </div>
 <br/>
 
+
+___
+
+#### Connect with me:
+* <img src="https://user-images.githubusercontent.com/63065397/178046247-48515758-d4a6-43fb-a865-434746127fc9.png" width="15"> &nbsp;Mail ID: [yashbaid200@gmail.com](mailto:yashbaid200@gmail.com)  
+* <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="16">&nbsp; LinkedIn: [yashvardhan-baid](https://www.linkedin.com/in/code-chaser/)
+* <img src="https://user-images.githubusercontent.com/63065397/178047982-91863239-5cc3-467f-a988-63ce8673791e.png" width="20"> Discord: [codechaser#0647](https://discord.com/users/784817646435565578/)
 
 ___
 
