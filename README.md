@@ -34,7 +34,6 @@
 
 <h3 align="center">Learner | Passionate Coder | Thinker</h3>
 <br/>
-<br/>
 
 <!--
 <p align=center>
@@ -56,28 +55,28 @@
 
 <p align="center">
 <a href="https://www.codechef.com/users/codechaser1" target="blank">
-<img align="center" src="https://img.shields.io/badge/codechef-4285f4?style=for-the-badge&logo=codechef&logoColor=152c51" alt="CodeChef" width=13% height=27px/></a>
+<img align="center" src="https://img.shields.io/badge/codechef-4285f4?style=for-the-badge&logo=codechef&logoColor=152c51" alt="CodeChef" width=13% height=24px/></a>
  
 
 <a href="https://codeforces.com/profile/codechaser" target="blank">
-<img align="center" src="https://img.shields.io/badge/codeforces-152c51?style=for-the-badge&logo=codeforces&logoColor=4285f4" alt="Codeforces" width=13% height=27px/></a>
+<img align="center" src="https://img.shields.io/badge/codeforces-152c51?style=for-the-badge&logo=codeforces&logoColor=4285f4" alt="Codeforces" width=13% height=24px/></a>
  
 
 <a href="https://icpc.global/ICPCID/DOP0J2F6824H">
-<img align="center" src="https://img.shields.io/badge/ICPC ID-4285f4?style=for-the-badge&logo=ACM&logoColor=152c51" alt="ICPC" width=13% height=27px/></a>
+<img align="center" src="https://img.shields.io/badge/ICPC ID-4285f4?style=for-the-badge&logo=ACM&logoColor=152c51" alt="ICPC" width=13% height=24px/></a>
 
 <a href="https://dev.to/codechaser" target="blank">
-<img align="center" src="https://img.shields.io/badge/dev comm-152c51?style=for-the-badge&logo=dev.to&logoColor=4285f4" alt="Dev.to" width=13% height=27px/></a>
+<img align="center" src="https://img.shields.io/badge/dev comm-152c51?style=for-the-badge&logo=dev.to&logoColor=4285f4" alt="Dev.to" width=13% height=24px/></a>
  
 
 <a href="https://leetcode.com/code-chaser/" target="blank">
-<img align="center" src="https://img.shields.io/badge/leetcode-4285f4?style=for-the-badge&logo=leetcode&logoColor=152c51" alt="Leetcode" width=13% height=27px/></a>
+<img align="center" src="https://img.shields.io/badge/leetcode-4285f4?style=for-the-badge&logo=leetcode&logoColor=152c51" alt="Leetcode" width=13% height=24px/></a>
 
 <a href="https://dev.to/codechaser" target="blank">
-<img align="center" src="https://img.shields.io/badge/hackere-152c51?style=for-the-badge&logo=hackerearth&logoColor=4285f4" alt="Dev.to" width=13% height=27px/></a>
+<img align="center" src="https://img.shields.io/badge/hackere-152c51?style=for-the-badge&logo=hackerearth&logoColor=4285f4" alt="Dev.to" width=13% height=24px/></a>
 
 <a href="https://leetcode.com/code-chaser/" target="blank">
-<img align="center" src="https://img.shields.io/badge/github-4285f4?style=for-the-badge&logo=github&logoColor=152c51" alt="Leetcode" width=13% height=27px/></a>
+<img align="center" src="https://img.shields.io/badge/github-4285f4?style=for-the-badge&logo=github&logoColor=152c51" alt="Leetcode" width=13% height=24px/></a>
  
 
 </p>
@@ -252,25 +251,25 @@ ___
 <p align="center">
 
 <a href="mailto:lit2020013@iiitl.ac.in" target="blank">
-<img align="center" src="https://img.shields.io/badge/gmail-152c51?style=for-the-badge&logo=gmail&logoColor=4285f4" alt="Gmail" width=9% height=24px/></a>
+<img align="center" src="https://img.shields.io/badge/gmail-152c51?style=for-the-badge&logo=gmail&logoColor=4285f4" alt="Gmail" width=10% height=24px/></a>
 
 <a href="https://www.linkedin.com/in/yashvardhan-baid/" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-4285f4?style=for-the-badge&logo=linkedin&logoColor=152c51" alt="LinkedIn" width=9% height=24px/></a>
+<img align="center" src="https://img.shields.io/badge/LinkedIn-4285f4?style=for-the-badge&logo=linkedin&logoColor=152c51" alt="LinkedIn" width=10% height=24px/></a>
  
 <a href="https://twitter.com/y_baid_" target="blank">
-<img align="center" src="https://img.shields.io/badge/TWITTER-152c51?style=for-the-badge&logo=Twitter&logoColor=4285f4" alt="Twitter" width=9% height=24px/></a>
+<img align="center" src="https://img.shields.io/badge/TWITTER-152c51?style=for-the-badge&logo=Twitter&logoColor=4285f4" alt="Twitter" width=10% height=24px/></a>
 
 <a href="https://www.facebook.com/codechaser.yb" target="blank">
-<img align="center" src="https://img.shields.io/badge/facebook-4285f4?style=for-the-badge&logo=facebook&logoColor=152c51" alt="Facebook" width=9% height=24px/></a>
+<img align="center" src="https://img.shields.io/badge/facebook-4285f4?style=for-the-badge&logo=facebook&logoColor=152c51" alt="Facebook" width=10% height=24px/></a>
 
 <a href="https://open.spotify.com/user/2zitooxrnd54cyavlphuhn7r9?si=2e4246add7414e72">
-<img align="center" src="https://img.shields.io/badge/spotify-152c51?style=for-the-badge&logo=spotify&logoColor=4285f4" alt="Spotify" width=9% height=24px/></a>
+<img align="center" src="https://img.shields.io/badge/spotify-152c51?style=for-the-badge&logo=spotify&logoColor=4285f4" alt="Spotify" width=10% height=24px/></a>
 
 <a href="https://instagram.com/yashvardhan_baid_" target="blank">
-<img align="center" src="https://img.shields.io/badge/instagram-4285f4?style=for-the-badge&logo=instagram&logoColor=152c51" alt="Instagram" width=9% height=24px/></a>
+<img align="center" src="https://img.shields.io/badge/instagram-4285f4?style=for-the-badge&logo=instagram&logoColor=152c51" alt="Instagram" width=10% height=24px/></a>
 
 <a href="https://discord.com/users/784817646435565578/" target="blank">
-<img align="center" src="https://img.shields.io/badge/Discord-152c51?style=for-the-badge&logo=discord&logoColor=4285f4" alt="Discord" width=9% height=24px/></a>
+<img align="center" src="https://img.shields.io/badge/Discord-152c51?style=for-the-badge&logo=discord&logoColor=4285f4" alt="Discord" width=10% height=24px/></a>
  
 
 </p>    
