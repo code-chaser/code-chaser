@@ -310,7 +310,7 @@ ___
 
 #### Connect with me:
 * <img src="https://user-images.githubusercontent.com/63065397/178046247-48515758-d4a6-43fb-a865-434746127fc9.png" width="15"> &nbsp;Mail ID: [yashbaid200@gmail.com](mailto:yashbaid200@gmail.com)  
-* <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="16">&nbsp; LinkedIn: [yashvardhan-baid](https://www.linkedin.com/in/code-chaser/)
+* <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="16">&nbsp; LinkedIn: [yashvardhan-baid](https://www.linkedin.com/in/yashvardhan-baid/)
 * <img src="https://user-images.githubusercontent.com/63065397/178047982-91863239-5cc3-467f-a988-63ce8673791e.png" width="20"> Discord: [codechaser#0647](https://discord.com/users/784817646435565578/)
 
 ___
