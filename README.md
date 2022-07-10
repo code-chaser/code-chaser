@@ -123,7 +123,7 @@ ___
         <li>😃 fields of interest: <i>Competitive Coding, Web Development, App Development, OOPs</i></li>
         <!--<li>💙 my hobbies: <i>Coding, Listening to music, Driving, Gaming, Solving Mechanics Problems</i></li>-->
         <br/>
-        <li><details><summary>✴️ Projects:</summary><br/>
+        <li><details><summary>🌟 My Creations:</summary><br/>
             <ul>
                 <li>
             <a href="https://github.com/code-chaser/dex/">dex-discord-bot</a> : A multi-purpose discord music bot made using <a href="https://github.com/Rapptz/discord.py">discord.py</a> library in <b>Python</b>;<br/><ul><li>It has <b>30+</b> bot functions using which user can listen to music, get its lyrics, get a random meme, inspirational quote, reddit headlines for given subreddit and a lot more; <br/></li><li>It's currently being used by <b>9000+</b> discord users on <b>10+</b> discord servers;</li><li><i>(February'22 - June'22)</i><br/></li></ul>
