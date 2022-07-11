@@ -1,49 +1,50 @@
 
 <div align="center">
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
 </div>
+
 <br/>
 <br/>
+
 <h1 align="center">Hi&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="24">, I'm Yashvardhan Baid! </h1>
 
 <h3 align="center">Learner | Passionate Coder | Thinker</h3>
+<br/>
 <!--<h3 align="center">
 <img align="center" src="https://img.shields.io/badge/Learner | Passionate Coder | Thinker-4285f4?style=" alt="tags" width=39% height=39px/>
 </h3>-->
-
-<br/>
 
 <!--
 <p align=center>
@@ -86,12 +87,13 @@
 <a href="https://discord.com/users/784817646435565578/" target="blank">
 <img align="center" src="https://img.shields.io/badge/Discord-152c51?style=for-the-badge&logo=discord&logoColor=4285f4" alt="Discord" width="12%" height="5%"/></a>
 
+</p>
+
 <!---->
 <br/>
 <br/>
  
 
-</p>
 
 <!--
 COLORS:
@@ -140,7 +142,10 @@ ___
                 <li>
             <a href="https://github.com/code-chaser/typit/">typit</a> : (typing speed & accuracy tester tool/game) : Made using basic <b>C++</b> and a bit of File Handling;<br/><ul><li>Single or multiple players can play on desired difficulty levels to test their typing skills;<br/></li><li><i>(June'21 - June'21)</i><br/></li></ul>
                 </li>
-            </details></li>
+            </ul>
+        </details></li>
+    </ul>
+</div>
 
 <!--            
         <li><details><summary>⭐ Achievements:</summary><br/>
@@ -188,43 +193,43 @@ ___
     * Handle: [**codechaser**](https://www.hackerearth.com/@codechaser)
            
 </ul>-->
-</div>
 
 
 ___
 
-<h2 align="center">Skills</h2> 
+<h2 align="center">Skills</h2>
+
 <div align="center">
 <a href="https://www.mysql.com/" target="_blank">
-<img align="center"  src="https://user-images.githubusercontent.com/63065397/178034640-6b060e77-dd78-4837-9b73-d0073a75bfa2.png" alt="mysql" width=3%/></a>
+<img align="center" src="https://user-images.githubusercontent.com/63065397/178034640-6b060e77-dd78-4837-9b73-d0073a75bfa2.png" alt="mysql" width="3%"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.postgresql.org/" target="_blank">
-<img align="center"  src="https://user-images.githubusercontent.com/63065397/178029882-d191f899-4f14-4f59-a03a-a0e6376f9a22.png" alt="postgresql" width=4%/></a>
+<img align="center"  src="https://user-images.githubusercontent.com/63065397/178029882-d191f899-4f14-4f59-a03a-a0e6376f9a22.png" alt="postgresql" width="4%"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width=5%/></a>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="5%"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width=6%/></a>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="6%"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-<img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width=7%/></a>
+<img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="7%"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.python.org/" target="_blank">
-<img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width=6%/></a>
+<img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="6%"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/html/" target="_blank">
-<img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width=5%/></a>
+<img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="5%"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.java.com/" target="_blank">
-<img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width=4%/></a>
+<img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="4%"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.javascript.com/" target="_blank">
-<img align="center" src="https://user-images.githubusercontent.com/63065397/178033281-fcbcea41-5299-4bac-994a-232632dfe0df.png" alt="js" width=3%/></a>
-
-
+<img align="center" src="https://user-images.githubusercontent.com/63065397/178033281-fcbcea41-5299-4bac-994a-232632dfe0df.png" alt="js" width="3%"/></a>
 </div>
+
 <br/>
+
 <!--
 
 ![image](https://user-images.githubusercontent.com/63065397/178033466-b0f87dc1-6ef0-4b3c-a389-2f6c9417582e.png)
@@ -249,6 +254,7 @@ ___
 <img align="center" src="https://img.shields.io/badge/Kt-152c51?style=for-the-badge&logo=Kotlin&logoColor=4285f4" alt="Kotlin" width=7% height=27px/>
 </div>
 <br/>
+
 -->
 
 ___
@@ -256,10 +262,11 @@ ___
 
 
 <br/>
+
 <h2 align="center"> GitHub Stats </h2>
-<div align="center"><p></p><a href="https://github.com/code-chaser">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-chaser&border_radius=0&background=00000000&stroke=111f37&hide_border=false&border=0f389d00&ring=4285f4&sideLabels=34a853&fire=fbbc05&currStreakLabel=4285f4&sideNums=34a853&currStreakNum=fbbc05&dates=4285f4" width=47%/></a> &nbsp;
-<a href="https://github.com/code-chaser"><img align="center" src="https://github-readme-stats.vercel.app/api?username=code-chaser&count_private=true&show_icons=true&theme=onedark&title_color=4285f4&icon_color=fbbc05&text_color=34a853&hide_border=1&border_radius=0&bg_color=1f48ad00&layout=compact&custom_title=" alt="code-chaser" width=47% /></a>
+<div align="center"><p><a href="https://github.com/code-chaser">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-chaser&border_radius=0&background=00000000&stroke=111f37&hide_border=false&border=0f389d00&ring=4285f4&sideLabels=34a853&fire=fbbc05&currStreakLabel=4285f4&sideNums=34a853&currStreakNum=fbbc05&dates=4285f4" width="47%"/></a> &nbsp;
+<a href="https://github.com/code-chaser"><img align="center" src="https://github-readme-stats.vercel.app/api?username=code-chaser&count_private=true&show_icons=true&theme=onedark&title_color=4285f4&icon_color=fbbc05&text_color=34a853&hide_border=1&border_radius=0&bg_color=1f48ad00&layout=compact&custom_title=" alt="code-chaser" width="47%" /></a>
 
 ___
 
@@ -311,11 +318,11 @@ ___
 
 <div width="40%" align="left">
 
-#### Connect with me:
-* <img src="https://user-images.githubusercontent.com/63065397/178046247-48515758-d4a6-43fb-a865-434746127fc9.png" width="15"> &nbsp;Mail ID: [yashbaid200@gmail.com](mailto:yashbaid200@gmail.com)  
-* <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="16">&nbsp; LinkedIn: [yashvardhan-baid](https://www.linkedin.com/in/yashvardhan-baid/)
-* <img src="https://user-images.githubusercontent.com/63065397/178047982-91863239-5cc3-467f-a988-63ce8673791e.png" width="20"> Discord: [codechaser#0647](https://discord.com/users/784817646435565578/)
-* <img src="https://user-images.githubusercontent.com/63065397/178130712-0a3d9bd5-2bd8-4cde-9621-c514cb0f1573.png" width="20" height="15"> Buy me a Coffee: [code.chaser](https://www.buymeacoffee.com/code.chaser)
+<h4>Connect with me:</h4>
+ <li><img src="https://user-images.githubusercontent.com/63065397/178046247-48515758-d4a6-43fb-a865-434746127fc9.png" width="15"> &nbsp;Mail ID: <a href="mailto:yashbaid200@gmail.com">yashbaid200@gmail.com</a></li>
+ <li><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="16">&nbsp; LinkedIn: <a href="https://www.linkedin.com/in/yashvardhan-baid/">yashvardhan-baid</a></li>
+ <li><img src="https://user-images.githubusercontent.com/63065397/178047982-91863239-5cc3-467f-a988-63ce8673791e.png" width="20"> Discord: <a href="https://discord.com/users/784817646435565578/">codechaser#0647</a></li>
+ <li><img src="https://user-images.githubusercontent.com/63065397/178130712-0a3d9bd5-2bd8-4cde-9621-c514cb0f1573.png" width="20" height="15"> Buy me a Coffee: <a href="https://www.buymeacoffee.com/code.chaser">code.chaser</a></li>
 
 
 </div>
@@ -323,44 +330,42 @@ ___
 
 ___
 
-</div>
 <br/>
 <div align="center">
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
-<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51"width="1.5%" height="1.5%"/>
+<img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
 </div>
 <br/>
 
 ___
-
