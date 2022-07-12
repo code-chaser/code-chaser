@@ -36,10 +36,13 @@
 </div>
 
 <br/>
+<br/>
 
 <h1 align="center">Hi&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="24">, I'm Yashvardhan Baid! </h1>
 
 <h3 align="center">Learner | Passionate Coder | Thinker</h3>
+<br/>
+
 <!--<h3 align="center">
 <img align="center" src="https://img.shields.io/badge/Learner | Passionate Coder | Thinker-4285f4?style=" alt="tags" width=39% height=39px/>
 </h3>-->
@@ -199,8 +202,8 @@ ___
 
 <div align="center">
 <a href="https://www.mysql.com/" target="_blank">
-<img align="center" src="https://user-images.githubusercontent.com/63065397/178034640-6b060e77-dd78-4837-9b73-d0073a75bfa2.png" alt="mysql" width="3%"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" src="https://user-images.githubusercontent.com/63065397/178034640-6b060e77-dd78-4837-9b73-d0073a75bfa2.png" alt="mysql" width="3.2%"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.postgresql.org/" target="_blank">
 <img align="center"  src="https://user-images.githubusercontent.com/63065397/178029882-d191f899-4f14-4f59-a03a-a0e6376f9a22.png" alt="postgresql" width="4%"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -220,8 +223,8 @@ ___
 <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="5%"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.java.com/" target="_blank">
-<img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="4%"/></a>
-&nbsp;&nbsp;&nbsp;
+<img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="4.5%"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.javascript.com/" target="_blank">
 <img align="center" src="https://user-images.githubusercontent.com/63065397/178033281-fcbcea41-5299-4bac-994a-232632dfe0df.png" alt="js" width="3%"/></a>
 </div>
