@@ -85,7 +85,7 @@
 <img align="center" src="https://img.shields.io/badge/spotify-152c51?style=for-the-badge&logo=spotify&logoColor=4285f4" alt="Spotify" width="12%" height="5%"/></a>
 
 <a href="https://instagram.com/yashvardhan_baid_" target="blank">
-<img align="center" src="https://img.shields.io/badge/insta|id-4285f4?style=for-the-badge&logo=instagram&logoColor=152c51" alt="Instagram" width="12%" height="5%"/></a>
+<img align="center" src="https://img.shields.io/badge/insta|id-4285f4?style=for-the-badge&logo=instagram&logoColor=152c51" alt="Instagram" width="12%" height="4.4%"/></a>
 
 <a href="https://discord.com/users/784817646435565578/" target="blank">
 <img align="center" src="https://img.shields.io/badge/Discord-152c51?style=for-the-badge&logo=discord&logoColor=4285f4" alt="Discord" width="12%" height="5%"/></a>
