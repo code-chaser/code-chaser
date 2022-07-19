@@ -1,6 +1,7 @@
 
 <div align="center">
 
+
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
 <img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
@@ -43,6 +44,7 @@
 <h1 align="center">Hi&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="24">, I'm Yashvardhan Baid! </h1>
 
 <h3 align="center">Learner | Passionate Coder | Thinker</h3>
+
 <br/>
 
 <!--<h3 align="center">
@@ -126,12 +128,13 @@ ___
         <li>💻 currently focusing on <i>Data Structures & Algorithms</i></li>
         <li>👐 have tried my hands at <i>Object Oriented Programming</i> & <i>Front-end Web Development</i></li>
         <li>😃 fields of interest: <i>Competitive Coding, Web Development, App Development, OOPs</i></li>
+        <li>😁 I'm always up for a logical puzzle, anytime anywhere</li>
         <!--<li>💙 my hobbies: <i>Coding, Listening to music, Driving, Gaming, Solving Mechanics Problems</i></li>-->
         <br/>
         <li><details><summary>🌟 My Creations:</summary><br/>
             <ul>
                 <li>
-            <a href="https://github.com/code-chaser/dex/">dex-discord-bot</a> : A multi-purpose discord music bot made using <a href="https://github.com/Rapptz/discord.py">discord.py</a> library in <b>Python</b>;<br/><ul><li>It has <b>30+</b> bot functions using which user can listen to music, get its lyrics, get a random meme, inspirational quote, reddit headlines for given subreddit and a lot more; <br/></li><li>It's currently being used by <b>9000+</b> discord users on <b>10+</b> discord servers;</li><li><i>(February'22 - June'22)</i><br/></li></ul>
+            <a href="https://github.com/code-chaser/dex/">dex-discord-bot</a> : A multi-purpose discord music bot made using <a href="https://github.com/Rapptz/discord.py">discord.py</a> library in <b>Python</b>;<br/><ul><li>It has <b>30+</b> bot commands using which user can listen to music, get its lyrics, get a random meme, inspirational quote, reddit headlines for given subreddit and a lot more; <br/></li><li>It's currently being used by <b>9000+</b> discord users on <b>10+</b> discord servers;</li><li><i>(February'22 - June'22)</i><br/></li></ul>
                 </li>
                 <li>
             <a href="https://github.com/code-chaser/expense-manager/">expense-manager</a> : Made Using OOPs Features in <b>C++</b>;<br/><ul><li>It keeps a record of user's personal expenses in an organized manner;<br/></li><li><i>(February'22 - February'22)</i><br/></li></ul>
