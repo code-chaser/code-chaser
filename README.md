@@ -128,7 +128,7 @@ ___
         <li>🌱 willing to learn new stuff</li>
         <li>💻 currently mastering <i>Data Structures & Algorithms</i> and learning <i>MERN Stack</i></li>
         <li>👐 have tried my hands at <i>Object Oriented Programming</i> & <i>Front-end Web Development</i></li>
-        <li>😃 fields of interest: <i>Competitive Coding, Web Development, App Development, OOPs</i></li>
+        <li>😃 fields of interest: <i>Competitive Coding, Web Development, Game Theory, OOPs</i></li>
         <li>😁 I'm always up for a logical puzzle, anytime anywhere</li>
         <!--<li>💙 my hobbies: <i>Coding, Listening to music, Driving, Gaming, Solving Mechanics Problems</i></li>-->
         <br/>
