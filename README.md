@@ -125,7 +125,7 @@ ___
 <div>
     <ul align="left">
         <li>👨‍💻 passionate about coding and other tech-fields</li>
-        <li>🌱 willing to learn new stuff</li>
+        <li>🌱 love to face challenges that help me grow and excel</li>
         <li>💻 currently mastering <i>Data Structures & Algorithms</i> and learning <i>MERN Stack</i></li>
         <li>😃 fields of interest: <i>Competitive Coding, DSA, Game Theory, OOPs, Web Development</i></li>
         <li>😁 always up for a logical puzzle, anytime anywhere</li>
