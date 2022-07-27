@@ -43,12 +43,12 @@
 
 <h1 align="center">Hi&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="24">, I'm Yashvardhan Baid! </h1>
 
-<h3 align="center">Learner | Passionate Coder | Thinker</h3>
+<h3 align="center">Learner | Passionate Coder | Innovator</h3>
 
 <br/>
 
 <!--<h3 align="center">
-<img align="center" src="https://img.shields.io/badge/Learner | Passionate Coder | Thinker-4285f4?style=" alt="tags" width=39% height=39px/>
+<img align="center" src="https://img.shields.io/badge/Learner | Passionate Coder | Innovator-4285f4?style=" alt="tags" width=39% height=39px/>
 </h3>-->
 
 <!--
