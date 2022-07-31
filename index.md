@@ -1,7 +1,5 @@
-
 <div align="center">
-
-
+ 
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
 <img align="center" src="https://img.shields.io/badge/-4285f4?style=for-the-badge&logo=&logoColor=152c51" width="1.5%" height="1.5%"/>
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
@@ -47,22 +45,33 @@
 
 <br/>
 
-<!--<h3 align="center">
+<!--
+<h3 align="center">
 <img align="center" src="https://img.shields.io/badge/Learner | Passionate Coder | Innovator-4285f4?style=" alt="tags" width=39% height=39px/>
-</h3>-->
+</h3>
+-->
 
 <!--
 <p align=center>
 
 <a href="https://twitter.com/y_baid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="y_baid_" height="27" width= /></a>&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/code-chaser/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/code-chaser/" height="27" width= /></a>&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.facebook.com/codechaser.yb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codechaser.yb" height="27" width= /></a>&nbsp;&nbsp;&nbsp;
+
 <a href="https://open.spotify.com/user/2zitooxrnd54cyavlphuhn7r9?si=2e4246add7414e72"><img align="center" height="27" src="https://user-images.githubusercontent.com/63065397/123314435-39dbcd80-d548-11eb-8f43-20f494523936.png"></a>&nbsp;&nbsp;&nbsp;
+
 <a href="https://instagram.com/yashvardhan_baid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codechaser" height="27" width= /></a>&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.codechef.com/users/codechaser1" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63065397/123329670-b11a5d00-d55a-11eb-8096-44ca8667f0e3.png" alt="codechaser" height="27" width= padding="" /></a>&nbsp;&nbsp;&nbsp;
+
 <a href="https://codeforces.com/profile/codechaser" target="blank"><img align="center" src="http://cdn.codeforces.com/s/0/favicon-96x96.png" alt="codechaser" height="27" width= /></a>&nbsp;&nbsp;&nbsp;
+
 <a href="https://dev.to/codechaser" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="codechaser" height="27" width= /></a>&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.hackerearth.com/@codechaser" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@codechaser" height="27" width= /></a>&nbsp;&nbsp;&nbsp;
+
 <a href="https://icpc.global/ICPCID/DOP0J2F6824H"><img align="center" src="https://user-images.githubusercontent.com/63065397/126180986-c735360b-6e4b-4a90-bfa3-551debdeb125.png" height="33"></a>
 
 </p>
@@ -139,7 +148,7 @@ ___
             <a href="https://github.com/code-chaser/meTube/">meTube</a> : under construction, will take quite a bit;<br/><ul><li><b>Tech Stack</b> (tentative): <b>NodeJS, ReactJS, HTML/CSS</b></li><li><i>(July'22 - Present)</i><br/></li></ul>
                 </li>
                 <li>
-            <a href="https://github.com/code-chaser/dex/">dex-discord-bot</a> : A multi-purpose discord music bot made using <a href="https://github.com/Rapptz/discord.py">discord.py</a> library in <b>Python</b>;<br/><ul><li>It has <b>30+</b> bot commands using which user can listen to music, get its lyrics, get a random meme, inspirational quote, reddit headlines for given subreddit and a lot more; <br/></li><li>It's currently being used by <b>9000+</b> discord users on <b>10+</b> discord servers;</li><li><i>(February'22 - June'22)</i><br/></li></ul>
+            <a href="https://github.com/code-chaser/dex/">dex-discord-bot</a> : A multi-purpose discord music bot made using <a href="https://github.com/Rapptz/discord.py">discord.py</a> library in <b>Python</b>;<br/><ul><li>It has <b>30+</b> bot commands using which user can listen to music, get its lyrics, get a random meme, inspirational quote, reddit headlines for given subreddit and a lot more; <br/></li><li>It's currently being used by <b>11000+</b> discord users on <b>10+</b> discord servers;</li><li><i>(February'22 - June'22)</i><br/></li></ul>
                 </li>
                 <li>
             <a href="https://github.com/code-chaser/expense-manager/">expense-manager</a> : Made Using OOPs Features in <b>C++</b>;<br/><ul><li>It keeps a record of user's personal expenses in an organized manner;<br/></li><li><i>(February'22 - February'22)</i><br/></li></ul>
