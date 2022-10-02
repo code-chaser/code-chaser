@@ -78,7 +78,7 @@
 </p>
 -->
 
-
+<!--
 <p align="center">
 
 <a href="mailto:yashbaid2002@gmail.com" target="blank">
@@ -103,10 +103,11 @@
 <img align="center" src="https://img.shields.io/badge/Discord-152c51?style=for-the-badge&logo=discord&logoColor=4285f4" alt="Discord" width="12%" height="5%"/></a>
 
 </p>
-
-<!---->
+-->
+<!--
 <br/>
 <br/>
+-->
  
 
 
