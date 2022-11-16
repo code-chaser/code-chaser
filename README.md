@@ -341,7 +341,7 @@ ___
 <div width="40%" align="left">
 
 <h4>Connect with me:</h4>
- <li><img src="https://user-images.githubusercontent.com/63065397/178046247-48515758-d4a6-43fb-a865-434746127fc9.png" width="15"> &nbsp;Mail ID: <a href="mailto:yashbaid200@gmail.com">yashbaid200@gmail.com</a></li>
+ <li><img src="https://user-images.githubusercontent.com/63065397/178046247-48515758-d4a6-43fb-a865-434746127fc9.png" width="15"> &nbsp;Mail ID: <a href="mailto:yashbaid200@gmail.com">yashbaid2002@gmail.com</a></li>
  <li><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="16">&nbsp; LinkedIn: <a href="https://www.linkedin.com/in/yashvardhan-baid/">yashvardhan-baid</a></li>
  <li><img src="https://user-images.githubusercontent.com/63065397/178047982-91863239-5cc3-467f-a988-63ce8673791e.png" width="20"> Discord: <a href="https://discord.com/users/784817646435565578/">codechaser#0647</a></li>
  <li><img src="https://user-images.githubusercontent.com/63065397/178130712-0a3d9bd5-2bd8-4cde-9621-c514cb0f1573.png" width="20" height="15"> Buy me a Coffee: <a href="https://www.buymeacoffee.com/code.chaser">code.chaser</a></li>
