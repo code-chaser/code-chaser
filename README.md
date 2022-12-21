@@ -287,18 +287,19 @@ ___
 
 <h2 align="center"> GitHub Stats </h2>
 <div align="center"><p><a href="https://github.com/code-chaser">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-chaser&border_radius=0&background=00000000&stroke=111f37&hide_border=false&border=0f389d00&ring=4285f4&sideLabels=34a853&fire=fbbc05&currStreakLabel=4285f4&sideNums=34a853&currStreakNum=fbbc05&dates=4285f4" width="47%"/></a> &nbsp;
-<a href="https://github.com/code-chaser"><img align="center" src="https://github-readme-stats.vercel.app/api?username=code-chaser&count_private=true&show_icons=true&theme=onedark&title_color=4285f4&icon_color=fbbc05&text_color=34a853&hide_border=1&border_radius=0&bg_color=1f48ad00&layout=compact&custom_title=" alt="code-chaser" width="47%" /></a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-chaser&border_radius=0&background=00000000&stroke=111f37&hide_border=false&border=0f389d00&border=ffffff&ring=4285f4&sideLabels=34a853&fire=fbbc05&currStreakLabel=4285f4&sideNums=34a853&currStreakNum=fbbc05&dates=4285f4" width="47%"/></a> &nbsp;
+<a href="https://github.com/code-chaser"><img align="center" src="https://github-readme-stats.vercel.app/api?username=code-chaser&count_private=true&show_icons=true&theme=onedark&title_color=4285f4&icon_color=fbbc05&text_color=34a853&hide_border=1&border=0f389d00&border_radius=0&bg_color=1f48ad00&layout=compact&custom_title=" alt="code-chaser" width="47%" /></a>
 
 ___
-
+<!--
 <a href="https://github.com/code-chaser"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=code-chaser&bg_color=aabbff00&color=4285f4&line=34d853&point=34d85300&area=true&hide_border=true&hide_title=true&area_color=34d853" />
   </a></p>
 </div>
-
 ___
+-->
 
 
+<br/>
 <br/>
 
 <h2 align="center">Coding Profiles</h2> 
@@ -309,7 +310,7 @@ ___
 <img align="center" src="https://img.shields.io/badge/codechef-4285f4?style=for-the-badge&logo=codechef&logoColor=152c51" alt="CodeChef" width="14%" height="5%"/></a>
  
 
-<a href="https://codeforces.com/profile/codechaser" target="blank">
+<a href="https://codeforces.com/profile/code.chaser" target="blank">
 <img align="center" src="https://img.shields.io/badge/codeforces-152c51?style=for-the-badge&logo=codeforces&logoColor=4285f4" alt="Codeforces" width="12%" height="5%"/></a>
  
 
