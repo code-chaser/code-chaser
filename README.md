@@ -287,7 +287,7 @@ ___
 
 <h2 align="center"> GitHub Stats </h2>
 <div align="center"><p><a href="https://github.com/code-chaser">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-chaser&border_radius=0&background=00000000&stroke=111f37&hide_border=false&border=0f389d00&border=ffffff&ring=4285f4&sideLabels=34a853&fire=fbbc05&currStreakLabel=4285f4&sideNums=34a853&currStreakNum=fbbc05&dates=4285f4" width="47%"/></a> &nbsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-chaser&border_radius=0&background=00000000&stroke=111f37&hide_border=false&border=0f389d00&border=e4e2e2&ring=4285f4&sideLabels=34a853&fire=fbbc05&currStreakLabel=4285f4&sideNums=34a853&currStreakNum=fbbc05&dates=4285f4" width="47%"/></a> &nbsp;
 <a href="https://github.com/code-chaser"><img align="center" src="https://github-readme-stats.vercel.app/api?username=code-chaser&count_private=true&show_icons=true&theme=onedark&title_color=4285f4&icon_color=fbbc05&text_color=34a853&hide_border=1&border=0f389d00&border_radius=0&bg_color=1f48ad00&layout=compact&custom_title=" alt="code-chaser" width="47%" /></a>
 
 ___
