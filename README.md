@@ -132,7 +132,7 @@ ___
     <br/>
     <br/>
 </div>
-<div
+<div>
     <ul align="left">
         <li>👨‍💻 passionate about coding and other tech-fields</li>
         <li>🌱 love to face challenges that help me grow and excel</li>
