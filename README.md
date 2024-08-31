@@ -127,7 +127,8 @@ ___
 ___
 
 <div align="center">
-    A final year student 👨‍🎓 at <b><a href="https://iiitl.ac.in">Indian Institute of Information Technology, Lucknow</a></b> 🏛️ pursuing <b>B.Tech. in IT</b> (2020-2024).
+    I'm a Passionate Coder 🤓 who loves to solve problems efficiently using logic 🧠 and program machines 🔠 to do the same.
+    <br/>By profession, currently I'm a Software Engineer 💻 at <b><a href="https://www.linkedin.com/company/walmartglobaltechindia/">Walmart Global Tech, India</a></b> directly contributing to the tech-powered global retail disruption.
     <br/>
     <br/>
     <br/>
@@ -137,7 +138,7 @@ ___
         <li>👨‍💻 passionate about coding and other tech-fields</li>
         <li>🌱 love to face challenges that help me grow and excel</li>
         <li>💻 currently mastering <i>Data Structures & Algorithms</i> and learning <i>JAVA Spring Boot</i>, <i>ELK Stack</i></li>
-        <li>😃 fields of interest: <i>Competitive Coding, DSA, Game Theory, OOPs, Web Development</i></li>
+        <li>😃 fields of interest: <i>Competitive Coding, DSA, Game Theory, OOPs, System Design, Backend</i></li>
         <li>😁 always up for a logical puzzle, anytime anywhere</li>
         <!--<li>💙 my hobbies: <i>Coding, Listening to music, Driving, Gaming, Solving Mechanics Problems</i></li>-->
         <br/>
