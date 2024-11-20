@@ -142,7 +142,7 @@ ___
         <li>😁 always up for a logical puzzle, anytime anywhere</li>
         <!--<li>💙 my hobbies: <i>Coding, Listening to music, Driving, Gaming, Solving Mechanics Problems</i></li>-->
         <br/>
-        <li><details><summary>🌟 My Creations:</summary><br/>
+        <li><details><summary>🌟 My Creations <i>(last updated: December 2022)</i>:</summary><br/>
             <ul>
                 <!--<li>
             <a href="https://github.com/code-chaser/url-v/">url-v</a> : (something interesting... 😉) - under construction, will take quite a bit;<br/><ul><li><b>Tech Stack</b> (tentative): <b>MERN Stack (MongoDB, Express, React, Node)</b></li><li><i>(July'22 - Present)</i><br/></li></ul>
