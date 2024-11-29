@@ -1,3 +1,245 @@
+<!--
+Please don't look at this code, this I coded years ago and too lazy to change it. Yes I'm making excuses, please don't look at it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NNNN     NNNN      OOOOOOOO
+NNNNN    NNNN    OO        OO
+NNNN NN  NNNN   OO          OO
+NNNN  NN NNNN   OO          OO
+NNNN   NNNNNN   OO          OO
+NNNN    NNNNN    OO        OO
+NNNN     NNNN      OOOOOOOO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PPPPPPPPPPP    
+PPPP    PPPPP   
+PPPP     PPPPP  
+PPPP    PPPPP    
+PPPPPPPPPPP      
+PPPP           
+PPPP           
+PPPP           
+              
+LLLL           
+LLLL           
+LLLL           
+LLLL           
+LLLL           
+LLLL           
+LLLLLLLLLLLLLL  
+LLLLLLLLLLLLLL  
+              
+EEEEEEEEEEEEEE 
+EEEEEEEEEEEEEE 
+EEEE           
+EEEEEEEEEEEEEE 
+EEEEEEEEEEEEEE 
+EEEE           
+EEEEEEEEEEEEEE 
+EEEEEEEEEEEEEE 
+              
+AAAAAAAAAAAAAA 
+AAAAAAAAAAAAAA 
+AAAA     AAAAA 
+AAAAAAAAAAAAAA  
+AAAAAAAAAAAAAA 
+AAAA     AAAAA 
+AAAA     AAAAA 
+AAAA     AAAAA 
+              
+SSSSSSSSSSSSS  
+SSSSSSSSSSSSS  
+SSSS           
+SSSSSSSSSSSSS  
+SSSSSSSSSSSSS  
+         SSSS
+SSSSSSSSSSSSS  
+SSSSSSSSSSSSS  
+              
+EEEEEEEEEEEEEE 
+EEEEEEEEEEEEEE 
+EEEE           
+EEEEEEEEEEEEEE 
+EEEEEEEEEEEEEE 
+EEEE           
+EEEEEEEEEEEEEE 
+EEEEEEEEEEEEEE 
+
+
+              
+              
+NNNN      NNNN 
+NNNNN     NNNN 
+NNNNNN    NNNN 
+NNNN NN   NNNN 
+NNNN  NN  NNNN 
+NNNN   NN NNNN 
+NNNN    NNNNNN 
+NNNN     NNNNN 
+     
+OOOOOOOOOOOOOO 
+OOOOOOOOOOOOOO 
+OOOO      OOOO 
+OOOO      OOOO 
+OOOO      OOOO 
+OOOO      OOOO 
+OOOOOOOOOOOOOO 
+OOOOOOOOOOOOOO
+
+
+              
+
+
+
+
+
+
+
+.̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇.̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇.̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇.̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇
+....
+.̇̇̇̇̇̇̇...̇̇̇̇̇̇̇
+
+
+
+
+
+
+
+
+
+              
+              
+NNNN      NNNN 
+NNNNN     NNNN 
+NNNNNN    NNNN 
+NNNN NN   NNNN 
+NNNN  NN  NNNN 
+NNNN   NN NNNN 
+NNNN    NNNNNN 
+NNNN     NNNNN 
+     
+OOOOOOOOOOOOOO 
+OOOOOOOOOOOOOO 
+OOOO      OOOO 
+OOOO      OOOO 
+OOOO      OOOO 
+OOOO      OOOO 
+OOOOOOOOOOOOOO 
+OOOOOOOOOOOOOO
+
+
+              
+
+
+
+
+
+
+
+.̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇.̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇.̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇.̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇
+....
+.̇̇̇̇̇̇̇...̇̇̇̇̇̇̇
+
+
+
+
+
+
+
+
+
+
+
+
+              
+              
+NNNN      NNNN 
+NNNNN     NNNN 
+NNNNNN    NNNN 
+NNNN NN   NNNN 
+NNNN  NN  NNNN 
+NNNN   NN NNNN 
+NNNN    NNNNNN 
+NNNN     NNNNN 
+     
+OOOOOOOOOOOOOO 
+OOOOOOOOOOOOOO 
+OOOO      OOOO 
+OOOO      OOOO 
+OOOO      OOOO 
+OOOO      OOOO 
+OOOOOOOOOOOOOO 
+OOOOOOOOOOOOOO
+
+
+              
+
+
+
+
+
+
+
+.̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇.̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇.̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇.̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇̇
+....
+.̇̇̇̇̇̇̇...̇̇̇̇̇̇̇
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alright, whatever!!
+You could've used this time for something better. But, go ahead, have at it!
+-->
 <div align="center">
  
 <img align="center" src="https://img.shields.io/badge/-152c51?style=for-the-badge&logo=&logoColor=4285f4" width="2.7%" height="2.7%"/>
