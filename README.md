@@ -370,7 +370,7 @@ ___
 
 <div align="center">
     I'm a Passionate Coder 🤓 who loves to solve problems efficiently using logic 🧠 and program machines 🔠 to do the same.
-    <br/>By profession, currently I'm a Software Engineer 💻 at <b><a href="https://www.linkedin.com/company/walmartglobaltechindia/">Walmart Global Tech, India</a></b> directly contributing to the tech-powered global retail disruption.
+    <br/>Professionally, I'm a Software Developer 💻 at <b><a href="https://www.linkedin.com/company/walmartglobaltechindia/">Walmart Global Tech, India</a></b> directly contributing to the tech-powered global retail disruption.
     <br/>
     <br/>
     <br/>
