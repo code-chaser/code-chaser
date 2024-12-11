@@ -284,7 +284,7 @@ You could've used this time for something better. But, go ahead, have at it!
 
 <h1 align="center">Hi&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="24">, I'm Yashvardhan Baid! </h1>
 
-<h3 align="center">Learner | Passionate Coder | Innovator</h3>
+<h3 align="center">Learner | Passionate Coder | Thinker</h3>
 
 <br/>
 
@@ -370,7 +370,7 @@ ___
 
 <div align="center">
     I'm a Passionate Coder 🤓 who loves to solve problems efficiently using logic 🧠 and program machines 🔠 to do the same.
-    <br/>Professionally, I'm a Software Developer 💻 at <b><a href="https://www.linkedin.com/company/walmartglobaltechindia/">Walmart Global Tech, India</a></b> directly contributing to the tech-powered global retail disruption.
+    <br/>Professionally, I'm a Software Developer 💻 at <b><a href="https://www.linkedin.com/company/walmartglobaltechindia/">Walmart Global Tech, India</a></b>, directly contributing to the tech-powered global retail disruption.
     <br/>
     <br/>
     <br/>
@@ -465,29 +465,29 @@ ___
 <h2 align="center">Skills</h2>
 
 <div align="center">
-<a href="https://www.mysql.com/" target="_blank">
-<img align="center" src="https://user-images.githubusercontent.com/63065397/178034640-6b060e77-dd78-4837-9b73-d0073a75bfa2.png" alt="mysql" width="3.2%"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="3.2%"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.postgresql.org/" target="_blank">
 <img align="center"  src="https://user-images.githubusercontent.com/63065397/178029882-d191f899-4f14-4f59-a03a-a0e6376f9a22.png" alt="postgresql" width="4%"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="5%"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="6%"/></a>
+<a href="https://www.mysql.com/" target="_blank">
+<img align="center" src="https://user-images.githubusercontent.com/63065397/178034640-6b060e77-dd78-4837-9b73-d0073a75bfa2.png" alt="mysql" width="5%"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-<img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="7%"/></a>
+<img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="6%"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.java.com/" target="_blank">
+<img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="7%"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.python.org/" target="_blank">
 <img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="6%"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3schools.com/html/" target="_blank">
-<img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="5%"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="5%"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.java.com/" target="_blank">
-<img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="4.5%"/></a>
+<a href="https://www.w3schools.com/html/" target="_blank">
+<img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="4.5%"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.javascript.com/" target="_blank">
 <img align="center" src="https://user-images.githubusercontent.com/63065397/178033281-fcbcea41-5299-4bac-994a-232632dfe0df.png" alt="js" width="3%"/></a>
